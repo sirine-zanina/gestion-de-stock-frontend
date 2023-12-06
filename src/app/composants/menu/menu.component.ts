@@ -40,13 +40,13 @@ export class MenuComponent implements OnInit{
             id: '2-1',
             titre: 'Articles',
             icon: 'fas fa-boxes',
-            url: '',
+            url: 'articles',
           },
           {
             id: '2-2',
             titre: 'Mouvements du stock',
             icon: 'fab fa-stack-overflow',
-            url: '',
+            url: 'mvtstk',
           },
         ]
 
